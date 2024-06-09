@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: rgb(250, 203, 115);
+    background-color: orange;
 }
 
 .heading{
@@ -34,7 +34,7 @@ body{
 }
 
 .inputs-wrapper{
-    background-color: #03164a;
+    background-color: black;
     padding: 30px 25px;
     border-radius: 8px;
     box-shadow: 0 15px 20px rgba(0,0,0,3);
@@ -44,7 +44,7 @@ body{
 input,button{
     height: 50px;
     background-color: #ffff;
-    color: #03164a;
+    color: black;
     font-weight: 500;
     border-radius: 5px;
 }
@@ -70,7 +70,7 @@ button{
 .outputs-wrapper div{
     height: 100px;
     width: 100px;
-    background-color: #03164a;
+    background-color: black;
     border-radius: 5px;
     color: #ffff;
     display: grid;
